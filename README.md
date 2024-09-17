@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akroy5&label=Profile%20views&color=0e75b6&style=flat" alt="akroy5" /> </p>
 
-- 🔭 I’m currently working on **E-Krushi Precision Agriculture , Unmanned Areial Working**
+- 🔭 I’m currently working on **E-Krushi Precision Agriculture , AI based Unmanned Areial Vehicle (UAV)**
 
 - 🌱 I’m currently learning **Pytroch, Tensorflow**
 
