@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Nagappagol</h1>
-<h3 align="center">I am passionate AI Researcher in defence, automotive, precision agriculture.</h3>
+<h3 align="center">I am passionate AI Researcher in Health-care, defence, automotive, precision agriculture, etc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akroy5&label=Profile%20views&color=0e75b6&style=flat" alt="akroy5" /> </p>
 
