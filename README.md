@@ -70,9 +70,9 @@ Springer CCIS Vol. 2477
 ---
 
 ## Contact
-
 Email: [akashnagappagol@gmail.com](mailto:akashnagappagol@gmail.com)  
 LinkedIn: [linkedin.com/in/akash-nagappagol-9a842523a](https://www.linkedin.com/in/akash-nagappagol-9a842523a)  
+
 ---
 
 
